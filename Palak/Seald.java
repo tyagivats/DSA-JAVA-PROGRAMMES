@@ -1,4 +1,4 @@
-package Mahi;
+package Palak;
 
 public class Seald {
 
